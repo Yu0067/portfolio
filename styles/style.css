@@ -190,9 +190,7 @@ h1{
 }
 
 
-/******************************************************
-                    Media Queries   
-******************************************************/
+/*-------------- Media Queries 760px-----------*/
 
 @media screen and (min-width:760px){
 
@@ -339,7 +337,7 @@ p{
 }
 
 
-/*   Media Queries  */
+/*--------Media Queries 1024px------  */
 
 @media screen and (min-width:1024px){
 
