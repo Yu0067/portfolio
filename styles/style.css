@@ -218,14 +218,14 @@ nav li a{
 }
 
 .intro-2b{
-	color:#28b7f3;
+	color:#06e5f5f1;
 	font-size: 2rem;
 	line-height: 2.5rem;
 	margin:60px 50px 100px 70px;
 	padding:10px;
 }
 
-.collage{
+.img_home01{
 	width: 100%;
 	margin-top:100px;
 	margin-bottom:100px;
@@ -235,7 +235,7 @@ nav li a{
 	margin-bottom: 100px;
 }
 
-/*Footer*/
+/*  Footer  */
 footer{
 	font-size: 1.2rem;
 	padding-bottom:15px;
@@ -360,7 +360,7 @@ nav li a{
 	padding:8px 20px 10px 20px;
 	font-size:1.6rem;
 	font-weight:700;
-	color:white;
+	color:black;
 }
 
 ul li a:hover{
@@ -368,13 +368,12 @@ ul li a:hover{
 }
 
 ul li a:active{
-    background-color:#28b7f3;
-    color:white;
+    background-color:#06e5f5f1;
+    color:black;
 }
 
 .current{
 	color:#703cda;
-	background-color:white;
 }
 
 
@@ -398,7 +397,7 @@ ul li a:active{
 .intro-2b{
 	font-size: 2.4rem;
 	line-height: 3rem;
-	color:#28b7f3;
+	color:#06e5f5f1;
 	margin:0px 120px 80px 120px;
 	padding:10px;
 	background-color: #703cda;
