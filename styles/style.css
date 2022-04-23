@@ -62,13 +62,12 @@ body{
 	width:50%;
 }
 
-.img-logo:active{
-	opacity: 0.3;
-	transition-duration: 0.3s;
+.img-logo:hover{
+	background-color: yellow;
 }
 
 nav{
-	text-align:center;
+	text-align:left;
     position:relative;
 	background-color: white;
 }
@@ -78,12 +77,12 @@ nav ul{
 	flex-grow:1;
 	justify-content:space-around;
 	background-color:#06e5f5f1;
-	padding:30px 0 30px 0;
+	padding:25px 0 25px 0;
 }
 
 nav li a{
-	font-size:1rem;
-	font-weight:600;
+	font-size:0.7rem;
+	font-weight:400;
 	color:black;
 }
 
